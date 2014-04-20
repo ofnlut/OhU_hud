@@ -791,16 +791,6 @@ Scheme
                 "antialias" "1"
             }
         }
-        "Circle"
-        {
-            "1"
-            {  
-                "name" "Crosshairs"
-                "tall" "28"
-                "weight" "0"
-                "antialias" "1"
-            }
-        }
 //////////////////////////////////////////////////////////////////////
 
 		"Heavy18"
@@ -860,15 +850,15 @@ Scheme
             "1"
             {
                 "name"      "Kimberley"
-                "tall"      "12"
+                "tall"      "25"
                 "weight"    "900"
                 "range"     "0x0000 0x017F" //  Basic Latin, Latin-1 Supplement, Latin Extended-A
                 "yres"  "480 599"
             }
-            "2"
+            "2" // controls 1280x720
             {
-                "name"      "Kimberley"
-                "tall"      "13"    [$WIN32]
+                "name"      "Kimberley" 
+                "tall"      "20"    [$WIN32]
                 "tall"      "20"    [$X360]
                 "weight"    "900"
                 "range"     "0x0000 0x017F" //  Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -877,24 +867,24 @@ Scheme
             "3"
             {
                 "name"      "Kimberley"
-                "tall"      "14"
+                "tall"      "25"
                 "weight"    "900"
                 "range"     "0x0000 0x017F" //  Basic Latin, Latin-1 Supplement, Latin Extended-A
                 "yres"  "768 1023"
                 "antialias" "1"
             }
 			
-			"4"
+			"4" //controls 1920x1080
 			{
-				"name"		"MuseoSansCyrl-500"
-				"tall"		"10"
+				"name"		"Kimberley"
+				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
 			}
 			
             "4" /////ScoreboardPlayers/Voice/Killfeed////
             {
-                "name"      "Code-Light"
+                "name"      "Motor Oil 1937 M54"
                 "tall"      "20"
                 "weight"    "900"
                 "range"     "0x0000 0x017F" //  Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -903,7 +893,7 @@ Scheme
             }
             "5"
             {
-                "name"      "Code-Light"
+                "name"      "Motor Oil 1937 M54"
                 "tall"      "24"
                 "weight"    "900"
                 "range"     "0x0000 0x017F" //  Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -912,14 +902,14 @@ Scheme
             }
             "6"
             {
-                "name"      "Kimberley"
+                "name"      "Motor Oil 1937 M54"
                 "tall"      "12"
                 "range"         "0x0000 0x00FF"
                 "weight"        "900"
             }
             "7"
             {
-                "name"      "Arial"
+                "name"      "Motor Oil 1937 M54"
                 "tall"      "12"
                 "range"         "0x0000 0x00FF"
                 "weight"        "800"
@@ -959,7 +949,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Verdana"
+                "name"      "Kimberley"
                 "tall"      "12"
                 "weight"    "0"
                 "range"     "0x0000 0x017F"
@@ -967,7 +957,7 @@ Scheme
             }
             "2"
             {
-                "name"      "Verdana"
+                "name"      "Kimberley"
                 "tall"      "13"
                 "weight"    "0"
                 "range"     "0x0000 0x017F"
@@ -975,7 +965,7 @@ Scheme
             }
             "3"
             {
-                "name"      "Verdana"
+                "name"      "Kimberley"
                 "tall"      "14"
                 "weight"    "0"
                 "range"     "0x0000 0x017F"
@@ -984,7 +974,7 @@ Scheme
             }
             "4"
             {
-                "name"      "Verdana"
+                "name"      "Kimberley"
                 "tall"      "20"
                 "weight"    "0"
                 "range"     "0x0000 0x017F"
@@ -993,7 +983,7 @@ Scheme
             }
             "5"
             {
-                "name"      "Verdana"
+                "name"      "Motor Oil 1937 M54"
                 "tall"      "22"
                 "weight"    "0"
                 "range"     "0x0000 0x017F"
@@ -1002,7 +992,7 @@ Scheme
             }
             "6"
             {
-                "name"      "Arial"
+                "name"      "Motor Oil 1937 M54"
                 "tall"      "12"
                 "range"         "0x0000 0x00FF"
                 "weight"        "0"
@@ -1949,7 +1939,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Code-Light"
+                "name"      "Motor Oil 1937 M54"
                 "tall"      "9"
                 "tall_hidef"    "10"
                 "tall_lodef"    "14"
@@ -1962,7 +1952,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Code-Light"
+                "name"      "Motor Oil 1937 M54"
                 "tall"      "10"
                 "tall_hidef"    "12"
                 "tall_lodef"    "14"
@@ -1975,7 +1965,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Code-Light"
+                "name"      "Motor Oil 1937 M54"
                 "tall"      "14"
                 "weight"    "500"
                 "range"     "0x0000 0x007F" //  Basic Latin
@@ -1987,7 +1977,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Code-Light"
+                "name"      "Motor Oil 1937 M54"
                 "tall"      "20"
                 "weight"    "500"
                 "range"     "0x0000 0x007F" //  Basic Latin
