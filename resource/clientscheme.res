@@ -779,7 +779,66 @@ Scheme
 			}
 		}
 //////////////////// End of HeavyCaps/////////////////
-
+        "Biko10"
+        {
+            "1"
+            {
+                "name"      "Biko"
+                "tall"      "10"
+                "additive"  "0"
+                "antialias" "1"
+            }
+        }
+        "Biko12"
+        {
+            "1"
+            {
+                "name"      "Biko"
+                "tall"      "12"
+                "additive"  "0"
+                "antialias" "1"
+            }
+        }
+        "Biko14"
+        {
+            "1"
+            {
+                "name"      "Biko"
+                "tall"      "14"
+                "additive"  "0"
+                "antialias" "1"
+            }
+        }
+        "Biko16"
+        {
+            "1"
+            {
+                "name"      "Biko"
+                "tall"      "16"
+                "additive"  "0"
+                "antialias" "1"
+            }
+        }
+        "Biko20"
+        {
+            "1"
+            {
+                "name"      "Biko"
+                "tall"      "20"
+                "additive"  "0"
+                "antialias" "1"
+            }
+        }
+        "Biko18"
+        {
+            "1"
+            {
+                "name"      "Biko"
+                "tall"      "18"
+                "additive"  "0"
+                "antialias" "1"
+            }
+        }
 /////////////////// Start of fog crosshair definition//////////////////
         "xHairSpread"
         {
@@ -849,7 +908,7 @@ Scheme
         {
             "1"
             {
-                "name"      "Kimberley"
+                "name"      "Biko"
                 "tall"      "25"
                 "weight"    "900"
                 "range"     "0x0000 0x017F" //  Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -857,7 +916,7 @@ Scheme
             }
             "2" // controls 1280x720
             {
-                "name"      "Kimberley" 
+                "name"      "Biko" 
                 "tall"      "20"    [$WIN32]
                 "tall"      "20"    [$X360]
                 "weight"    "900"
@@ -866,7 +925,7 @@ Scheme
             }
             "3"
             {
-                "name"      "Kimberley"
+                "name"      "Biko"
                 "tall"      "25"
                 "weight"    "900"
                 "range"     "0x0000 0x017F" //  Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -876,7 +935,7 @@ Scheme
 			
 			"4" //controls 1920x1080
 			{
-				"name"		"Kimberley"
+				"name"		"Biko"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -884,7 +943,7 @@ Scheme
 			
             "4" /////ScoreboardPlayers/Voice/Killfeed////
             {
-                "name"      "Motor Oil 1937 M54"
+                "name"      "Biko"
                 "tall"      "20"
                 "weight"    "900"
                 "range"     "0x0000 0x017F" //  Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -893,23 +952,23 @@ Scheme
             }
             "5"
             {
-                "name"      "Motor Oil 1937 M54"
+                "name"      "Biko"
                 "tall"      "24"
                 "weight"    "900"
                 "range"     "0x0000 0x017F" //  Basic Latin, Latin-1 Supplement, Latin Extended-A
                 "yres"  "1200 6000"
-                "antialias" "1"
+                "antialias" "1" 
             }
             "6"
             {
-                "name"      "Motor Oil 1937 M54"
+                "name"      "Biko"
                 "tall"      "12"
                 "range"         "0x0000 0x00FF"
                 "weight"        "900"
             }
             "7"
             {
-                "name"      "Motor Oil 1937 M54"
+                "name"      "Biko"
                 "tall"      "12"
                 "range"         "0x0000 0x00FF"
                 "weight"        "800"
@@ -4793,6 +4852,11 @@ Scheme
         {
             "font" "resource/fonts/crosshairs.ttf"
             "name" "Crosshairs"
+        }
+        "18" 
+        {
+            "font" "resource/fonts/Biko_Regular.otf"
+            "name" "Biko"
         }
     }
 }

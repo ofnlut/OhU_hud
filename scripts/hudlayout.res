@@ -5,7 +5,7 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////
 "Rainbow_Konr"
 	{
-		"visible"		"0"
+		"visible"		"1"
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"Rainbow_Konr"
 		"xpos"			"c-64"
@@ -926,13 +926,13 @@
         "tall"   "200"
 
         "MaxDeathNotices" "4"
-        "IconScale"   "0.1"
+        "IconScale"   "0.5"
         "LineHeight"      "16"
         "LineSpacing"     "0"
         "CornerRadius"    "0"
         "RightJustify"    "1"   // If 1, draw notices from the right
         
-        "TextFont"      "Default"
+        "TextFont"      "Biko10"
         
         "TeamBlue"      "HUDBlueTeamSolid"
         "TeamRed"       "HUDRedTeamSolid"
@@ -968,7 +968,7 @@
         "fieldName" "ScorePanel"
         "visible" "1"
         "enabled" "1"
-        "wide"   "100"
+        "wide"   "120"
         "tall"   "100"
     }
 
