@@ -1,7 +1,9 @@
 Ultraz_HUD
 ==========
 
-Tf2 UI for optimized competitve play
+Tf2 UI for optimized competitve play. It is heavily inspired by omp/oxide hud and uses an edit of ya_hud's mainmenu ui
+
+shoutout to: rays and flame (for tutorials and such) goat_ and bill waterson (for help even when i figured it out) ya_hud, oxidehud, and quarts( for inspiration).
 
 /////////////////Important Stuff////////////////
 
@@ -17,6 +19,6 @@ currently optimized for 16:9 and 16:10
 
 ////////////////////////////////////////////////
 
-Reach me @ http://steamcommunity.com/id/Ultraz97/
+Reach me @ http://steamcommunity.com/id/Ultraz97/ (I don't have a steam group yet but try to check the github and tf.tv thread every once and a while for updates as i am constantly changing stuff)
 
 Bugs can be reported @ https://github.com/Ultraz43/Ultraz_HUD/issues
