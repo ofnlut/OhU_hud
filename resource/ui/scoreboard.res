@@ -1348,6 +1348,7 @@
 			"enabled"		"1"
 		}
 	}
+	
 
 	"ButtonLegendBG"		[$X360]
 	{
