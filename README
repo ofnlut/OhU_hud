@@ -1,16 +1,9 @@
-Ultraz_HUD(OhU_hud or whatever)
+# Legacy TF2 HUD heavily outdated use at your own risk!
 ==========
 
 Tf2 UI for optimized competitve play. It is heavily inspired by omp/oxide hud and uses an edit of ya_hud's mainmenu ui
 
-shoutout to: 
-rays and flame (for tutorials and such) 
-goat_ and bill waterson (for help even when i figured it out) 
-ya_hud, oxidehud, and quarts(for inspiration).
-
 /////////////////Important Stuff////////////////
-Edit 6/12/14: As of now OhU_HUD is not in active development if there is an issue with the hud add me on steam and I can help you but I will not be pushing more updates as of now (working on power_hud)
-
 Scrennies: http://imgur.com/a/PbAeD
 
 U+:new health variant
@@ -25,5 +18,3 @@ currently optimized for 16:9 and 16:10
 
 ////////////////////////////////////////////////
 
-Reach me @ http://steamcommunity.com/id/Ultraz97/ (I don't have a steam group yet but try to check the github and tf.tv thread for updates)
-Bugs can be reported @ https://github.com/Ultraz43/Ultraz_HUD/issues
